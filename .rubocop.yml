@@ -51,3 +51,6 @@ Style/RedundantSelf:
 
 Style/SignalException:
   Enabled: false
+
+Style/IndentationConsistency:
+  EnforcedStyle: rails
